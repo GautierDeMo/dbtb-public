@@ -30,7 +30,17 @@ Ce projet est développé par deux frères passionnés par le jeu et le dévelop
 ➡️ [Consulter la fiche projet détaillée](./FICHEPROJET.md)
 
 ## 📷 Aperçu visuel
-*(à insérer une image du logo MGDM ou un aperçu de l'interface dès que disponible)*
+*![MGDM](https://github.com/user-attachments/assets/9491fecc-4423-4b5e-a1f1-211dd79b9499)*
+
+## 🔧 Outils externes utilisés
+
+- [doctrine-helper](https://github.com/siburuxue/doctrine-helper)  
+  → Outil en ligne de commande facilitant la génération des entités Doctrine à partir d’une base existante.  
+  Il nous a permis de mapper rapidement les structures complexes de notre base de données issue du jeu.
+
+- [zsh-in-docker](https://github.com/deluan/zsh-in-docker)  
+  → Image légère permettant d’utiliser zsh dans un conteneur Docker avec une configuration agréable.  
+  Nous l’avons utilisée pour améliorer notre expérience de développement au sein du container Symfony.
 
 ## 📅 Suivi
 Créé en mai 2025 – développement continu documenté ici.
