@@ -25,6 +25,19 @@ Projet personnel en cours de développement.
 - 💡 PHPStorm (connexion DB & génération DDL)
 - 👥 Pair programming ponctuel
 
+### 🔧 Outils open source utilisés
+
+Nous tenons à mentionner deux outils qui ont facilité notre travail :
+
+- [`doctrine-helper`](https://github.com/siburuxue/doctrine-helper) :  
+  Un outil CLI qui nous a permis de générer efficacement des entités Doctrine à partir d’une base SQLite.  
+  Un vrai gain de temps dans la phase d’intégration des données.
+
+- [`zsh-in-docker`](https://github.com/deluan/zsh-in-docker) :  
+  Une image Docker pratique pour intégrer zsh directement dans nos conteneurs Symfony.  
+  Cela améliore nettement le confort de développement au quotidien.
+
+
 ## 🧩 Démarche technique
 ### 🐳 Dockerisation
 Utilisation d’une image Symfony prête à l’emploi via `docker compose`, pour un environnement isolé et reproductible.
