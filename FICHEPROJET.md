@@ -29,7 +29,7 @@ Projet personnel en cours de développement.
 
 Nous tenons à mentionner trois outils qui ont facilité notre travail :
 
-- [symfony-docker](https://github.com/dunglas/symfony-docker)
+- [`symfony-docker`](https://github.com/dunglas/symfony-docker)
   → Utilisé comme base pour notre environnement de développement Symfony containerisé avec Docker.
   Le code a été cloné directement dans notre dépôt. Nous avons conservé le fichier LICENSE conformément aux conditions de la licence MIT.
 
