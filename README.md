@@ -34,6 +34,10 @@ Ce projet est développé par deux frères passionnés par le jeu et le dévelop
 
 ## 🔧 Outils externes utilisés
 
+- [symfony-docker](https://github.com/dunglas/symfony-docker)
+  → Utilisé comme base pour notre environnement de développement Symfony containerisé avec Docker.
+  Le code a été cloné directement dans notre dépôt. Nous avons conservé le fichier LICENSE conformément aux conditions de la licence MIT.
+
 - [doctrine-helper](https://github.com/siburuxue/doctrine-helper)  
   → Outil en ligne de commande facilitant la génération des entités Doctrine à partir d’une base existante.  
   Il nous a permis de mapper rapidement les structures complexes de notre base de données issue du jeu.
